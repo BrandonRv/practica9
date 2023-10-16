@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Dia 6 Octubre 2 Lunes</h1>
+      <h1>Dia 14 Octubre-12 Jueves</h1>
       
     
     </>
